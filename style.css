@@ -1,0 +1,36 @@
+.logo{
+    height: 24px;
+    width: 20px;
+}
+.navi{
+    background-color:gray;
+}
+.items{
+    color:black;
+}
+.search{
+    height: 20px;
+    width: 20px;
+}
+.bag{
+    height: 20px;
+    width: 20px;
+}
+.active{
+    color: white;
+}
+.iphone{
+    height: 50px;
+    width: 40px;
+}
+.chapternav{
+    color: black;
+    display: block;
+
+}
+.chapternav-item{
+    color: red;
+}
+.nav-content{
+    margin-left: 50px;
+}
