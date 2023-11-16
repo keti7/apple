@@ -34,3 +34,21 @@
 .nav-content{
     margin-left: 50px;
 }
+.container{
+    background-color: var(--ribbon-background-color-initial);
+    animation: animate-background-0071e3-f5f5f7 1s cubic-bezier(0.42, 0, 0.58, 1) 1.8s forwards;
+    animation: ribbon-drop 0.8s cubic-bezier(0.42, 0, 0.58, 1) forwards;
+}
+.container-wrapper{
+    color: var(--ribbon-text-color-initial);
+    animation: animate-color-fff-1d1d1f 1s cubic-bezier(0.42, 0, 0.58, 1) 1.8s forwards;
+    justify-content: center;
+    align-items: center;
+
+}
+.text{
+    justify-content: center;
+    align-items: center;
+    margin-left: 150px;
+    margin-top: 30px;
+}
