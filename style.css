@@ -52,3 +52,72 @@
     margin-left: 150px;
     margin-top: 30px;
 }
+.section-container{
+    align-items: center;
+    background-color: black;
+    width: 1517px;
+    height: 800px;
+    text-align: center;
+}
+.orange-text{
+    color:orangered;
+    font-size: 12px;
+    line-height: 1.3333733333;
+    font-weight: 400;
+    letter-spacing: -0.01em;
+    font-family: SF Pro Text,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    border-radius: 12px;
+    padding: 3px 11px;
+}
+.iphone-text{
+    color: white;
+    display: flex;
+    margin-left: 700px;
+    margin-top: 5px;
+}
+.titanium{
+    width: 350px;
+    margin-left: 70px;
+    margin-top: 5px;
+}
+.span-p{
+    margin-top: 20px;
+}
+.span-text{
+    color: white;
+    font-weight: 400;
+    font-size: 21px;
+    margin-left: 70px;
+}
+.buy {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 16px;
+    list-style-type: none;
+    margin-top: 30px;
+} 
+.buy-info {
+    margin-bottom: 10px;
+}
+a {
+    text-decoration: none;
+} 
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background: #0071e3;
+    color: #fff;
+    border: none;
+    text-decoration: none;
+}
+.image-section{
+    width: 100%;
+}
+.image-item{
+    width: 1079px;
+    height: 282px;
+    background-size: 1079px 282px;
+    background-repeat: no-repeat;
+    margin-top: 100px;
+}
